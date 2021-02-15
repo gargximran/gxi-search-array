@@ -1,6 +1,6 @@
 {
   "name": "gxi-search-array",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package help you to search any key value from array of objects and return you a new set of array with the exact keyword",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gargximran/js-search-function.git"
+    "url": "git+https://github.com/gargximran/gxi-search-array.git"
   },
   "author": "gargximran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gargximran/js-search-function/issues"
+    "url": "https://github.com/gargximran/gxi-search-array/issues"
   },
-  "homepage": "https://github.com/gargximran/js-search-function#readme"
+  "homepage": "https://github.com/gargximran/gxi-search-array#readme"
 
 }
