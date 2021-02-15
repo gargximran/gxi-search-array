@@ -43,15 +43,15 @@ console.log(searched)
         name: 'John Smith',
             age: 15,
             sports: [
-            {
-                id: 1,
-                name: 'Football'
-            },
-            {
-                id: 4,
-                name: 'Cricket'
-            }
-        ]
+                {
+                    id: 1,
+                    name: 'Football'
+                },
+                {
+                    id: 4,
+                    name: 'Cricket'
+                }
+            ]
     }
 ]
 
