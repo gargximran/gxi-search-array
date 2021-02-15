@@ -1,4 +1,4 @@
-export const searchedArray = (array = [], searchkey) => {
+const searchedArray = (array = [], searchkey) => {
     if(!Array.isArray(array)){
         return new Error('Expected array!').message
     }
@@ -32,3 +32,5 @@ export const searchedArray = (array = [], searchkey) => {
     return [...new Set(newReturnableArray)]
 
 }
+
+module.exports = searchedArray
