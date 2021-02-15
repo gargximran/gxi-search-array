@@ -1,10 +1,10 @@
 ## Introduction
 Get exact searched value from any type of array.
 
-#Installation
+# Installation
 `npm install gxi-search-array --save`
 
-#Usage
+# Usage
 ```javascript
 import SearchedArray from 'gxi-search-array'
 
